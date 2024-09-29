@@ -16,7 +16,7 @@ struct ContentView: View {
                 .clipShape(Circle())
                 .overlay(Circle().stroke(Color.orange, lineWidth: 4))
                 
-            Text("Raghad")
+            Text("Raghad Almarri")
                 .font(.title)
                 .fontWeight(.bold)
                 .foregroundColor(Color.orange)
